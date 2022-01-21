@@ -1,5 +1,5 @@
 ### Hello
-WELCOME TO MY README PAGE
+WELCOME TO MY PROFILE PAGE
 ###### About Me
 I'm currently working on a project for my Web Development Class
 
